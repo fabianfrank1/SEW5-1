@@ -10,4 +10,4 @@ Die Programmieraufgaben sind in eigenen Unterordnern(=Projekten) bereitzustellen
 Hier findest du interessante [Dokumente und Links](./200_Documentation/README.md) rund um die App Entwicklung für iOS
 
 ## :computer: Aufgaben
-- [ ] Task 301: [301_I_am_rich](./300/301_I_am_rich/README.md)
+- [ ] Task 301: [301_I_am_rich](./300_Tasks/301_I_am_rich/README.md)

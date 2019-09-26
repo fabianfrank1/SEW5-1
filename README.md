@@ -1,6 +1,9 @@
 # :wave: Willkommen zu SEW5 2019/20
 
-Die Programmieraufgaben sind in eigenen Unterordnern(=Projekten) bereitzustellen. Der Name des Projekts beginnt immer mit dem Kapitel gefolgt von einer fortlaufenen 2-stelligen Nummer, Beispiel: "201_I_am_rich"
+Alle Programmieraufgaben sind im eigenen Swift-Classroom in jeweils einem separaten Unterordnern(=Projekten) abzugeben. Der Name des Projekts beginnt immer mit dem Kapitel gefolgt von einer fortlaufenen 2-stelligen Nummer, Beispiel: "301_I_am_rich"
+
+* [Classroom 5AHIT](https://classroom.github.com/a/reZ4BdqH)
+* [Classroom 5BHIT](https://classroom.github.com/a/W3-LaAQJ)
 
 ## :loudspeaker: Referate
 * [Themenzuordnung 5AHIT](./100_Talks/5AHIT/README.md)

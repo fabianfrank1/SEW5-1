@@ -1,8 +1,8 @@
 # Nützliche Dokumente und Links
 
 ## :notebook: Dokumente
-* [iPhone Auflösungen](./iPhone Resolutions.pdf)
-* [Swift Cheat Sheet and Xcode Map](./Swift Cheat Sheet and Xcode Map.pdf)
+* [iPhone Auflösungen](./iPhoneResolutions.pdf)
+* [Swift Cheat Sheet and Xcode Map](./SwiftCheatSheetandXcodeMap.pdf)
 * [XCode Keyboard Shortcuts](./XcodeKeyboardShortcuts.pdf)
 
 ## :link: Links

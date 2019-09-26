@@ -3,5 +3,5 @@
 ![I am rich app](./Screenshot_Iamrich.png)
 
 ## Aufgabe:
-* Baue die $999.999 "I am rich" - App nach
+* Baue die $999.99 "I am rich" - App nach
 * alle benötigten Assets findest du im Ordner "Assets"

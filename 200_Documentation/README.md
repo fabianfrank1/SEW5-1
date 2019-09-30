@@ -2,7 +2,7 @@
 
 ## :notebook: Dokumente
 * [iPhone Auflösungen](./iPhoneResolutions.pdf)
-* [Swift Cheat Sheet and Xcode Map](./SwiftCheatSheetandXcode Map.pdf)
+* [Swift Cheat Sheet and Xcode Map](./SwiftCheatSheetandXcodeMap.pdf)
 * [XCode Keyboard Shortcuts](./XcodeKeyboardShortcuts.pdf)
 
 ## :link: Links

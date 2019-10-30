@@ -15,3 +15,5 @@ Hier findest du interessante [Dokumente und Links](./200_Documentation/README.md
 ## :computer: Aufgaben
 - [ ] Task 301: [301_I_am_rich](./300_Tasks/301_I_am_rich/README.md)
 - [ ] Task 302: [302_I_am_poor](./300_Tasks/302_I_am_poor/README.md)
+- [ ] Task 303: [303_I_am_poor](./300_Tasks/303_Dicee/README.md)
+- [ ] Task 304: [304_Magic_Eightball](./300_Tasks/304_Magic_Eightball/README.md)

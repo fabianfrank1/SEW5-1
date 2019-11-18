@@ -10,4 +10,4 @@ Nr.| Thema                                                                      
  5 | Extensions, Protocols                                                          | Linnert, Stockinger
  6 | Initialization, Deinitialization, Generics                                     | Gavric, Zauner
  7 | Properties, Subscripts                                                         | Früwirth, Haas
- 8 | SwiftUI                                                                        | Frank
+ 8 | [SwiftUI](./8/SwiftUI.key)                                                                    | Frank
